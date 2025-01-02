@@ -25,6 +25,7 @@ To run this project, you need:
   - `yolov3.cfg`, `yolov3.weights`
   - `yolov5x.pt`
   - `yolov8x.pt`
+Please download the required files from the rspective Official GitHub Repositories.
 
 ## How to Use
 
